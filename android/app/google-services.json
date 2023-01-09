@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116388485822",
+    "project_id": "sumarte-3f476",
+    "storage_bucket": "sumarte-3f476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116388485822:android:63fa409d8d36c6e40fdcef",
+        "android_client_info": {
+          "package_name": "com.sumarte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116388485822-og9k3d19cmgq13c3p016j9m0emq7a7t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0pXKjQcgPMNIi79hcJq_mLKfIRFqEm50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116388485822-og9k3d19cmgq13c3p016j9m0emq7a7t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
